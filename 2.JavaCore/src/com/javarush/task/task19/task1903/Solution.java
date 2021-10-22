@@ -10,15 +10,57 @@ import java.util.Map;
 public class Solution {
     public static Map<String, String> countries = new HashMap<String, String>();
 
+    static {
+        countries.put("UA", "Ukraine");
+        countries.put("RU", "Russia");
+        countries.put("CA", "Canada");
+
+    }
+
     public static void main(String[] args) {
 
     }
 
-    public static class IncomeDataAdapter {
+    public static class IncomeDataAdapter implements Customer, Contact {
+
+        private IncomeData data;
+
+        public IncomeDataAdapter(IncomeData data) {
+            this.data = data;
+        }
+
+        @Override
+        public String getCompanyName() {
+            return data.getCompany();
+
+        }
+
+        @Override
+        public String getCountryName() {
+            for (Map.Entry<String, String> entry : countries.entrySet()) {
+                if (entry.getKey().equals(data.getCountryCode())) {
+                    return entry.getValue();
+                }
+            }
+            return null;
+        }
+
+        @Override
+        public String getName() {
+            return String.format("%s, %s", data.getContactLastName(), data.getContactFirstName());
+        }
+
+        @Override
+        public String getPhoneNumber() {
+            String num = String.format("%010d", data.getPhoneNumber());
+            return String.format("+%d(%.3s)%s-%s-%s", data.getCountryPhoneCode(), num,
+                    num.substring(3,6), num.substring(6,8), num.substring(8));
+        }
     }
 
 
     public interface IncomeData {
+
         String getCountryCode();        //For example: UA
 
         String getCompany();            //For example: JavaRush Ltd.

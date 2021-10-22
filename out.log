@@ -29662,3 +29662,1788 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2021-09-27 00:27:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-09-27 00:28:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-09-27 00:29:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 00:30:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 00:31:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:41:07 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-09-27 21:41:07 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-09-27 21:41:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-09-27 21:41:07 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-09-27 21:41:07 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-09-27 21:41:07 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-09-27 21:41:07 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-09-27 21:42:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:43:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:44:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:45:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:46:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:47:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:48:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:49:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:50:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:51:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:52:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:53:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:54:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:55:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:56:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:57:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:58:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 21:59:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:00:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:01:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:02:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:03:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:04:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:05:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:06:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:07:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:08:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:09:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:10:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:11:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:12:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:13:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:14:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:15:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:16:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:17:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:18:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:19:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:20:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:21:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:22:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:23:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:24:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:25:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:26:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:27:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:28:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:29:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:30:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:31:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:32:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:33:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:34:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:35:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:36:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:37:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:38:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:38:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:39:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:40:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:41:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:42:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:43:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:44:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:45:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:46:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:47:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:48:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:49:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:50:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:51:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:52:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:53:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:54:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:55:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:56:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:57:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:58:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 22:59:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:00:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:01:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:02:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:03:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:04:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:05:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:06:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:07:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:08:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:09:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:10:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:11:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:12:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:13:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:14:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:15:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:16:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:17:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:17:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:17:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:17:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:17:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:17:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:17:27 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:18:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:19:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:20:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:21:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:22:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:22:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:22:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:22:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:22:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:22:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:23:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:23:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:23:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:23:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:23:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:24:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:25:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:26:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:27:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:28:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:29:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:30:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:31:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:32:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:33:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:33:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:33:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:33:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-09-27 23:34:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:34:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-09-27 23:34:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:35:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:36:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:37:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-27 23:37:26 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-09-27 23:37:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:37:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:37:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-27 23:37:27 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-09-27 23:46:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-09-27 23:46:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-09-27 23:46:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-09-27 23:46:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-09-27 23:46:54 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-09-27 23:46:54 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-09-27 23:46:54 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-09-27 23:47:04 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-09-27 23:47:04 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-09-29 22:33:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-09-29 22:33:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-09-29 22:33:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-09-29 22:33:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-09-29 22:33:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-09-29 22:33:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-09-29 22:33:41 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-09-29 22:34:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:35:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:36:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:37:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:38:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:39:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:40:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:41:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:42:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:43:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:44:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:45:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:46:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:47:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-09-29 22:48:04 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-09-29 22:48:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-09-29 22:48:04 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-09-30 23:31:05 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-09-30 23:31:05 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-09-30 23:31:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-09-30 23:31:06 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-09-30 23:31:06 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-09-30 23:31:06 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-09-30 23:31:06 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-09-30 23:31:13 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-09-30 23:31:13 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-01 22:08:02 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-01 22:08:02 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-01 22:08:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-01 22:08:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-01 22:08:02 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-01 22:08:02 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-01 22:08:02 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-01 22:08:02 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-01 22:09:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:10:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:11:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:12:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:13:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:14:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:15:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:16:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:17:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:18:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:19:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:20:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:21:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:22:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:23:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:24:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:25:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:26:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:27:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:28:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:29:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:30:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:31:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:32:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:33:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:34:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:35:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:36:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:37:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:38:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:39:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:40:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:41:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:42:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:42:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 22:42:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 22:43:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:44:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:45:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:46:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:47:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:48:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:49:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:50:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:51:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:52:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:53:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:54:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:55:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:56:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:57:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:58:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 22:59:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:00:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:01:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:02:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:03:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:04:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:05:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:06:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:07:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:08:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:09:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:10:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:11:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:12:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:13:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:14:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:14:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:15:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:16:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:17:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:17:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:17:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:17:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:17:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:17:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:18:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:18:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:18:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:18:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:18:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:19:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:19:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:19:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:19:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:20:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:20:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:21:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:22:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:22:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:22:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:22:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:23:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:23:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:23:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:23:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:24:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:24:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:24:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:24:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-01 23:24:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:25:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:26:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:27:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:27:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-01 23:27:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-01 23:27:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-01 23:27:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1904
+2021-10-01 23:27:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:28:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-01 23:28:52 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-01 23:28:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:28:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-01 23:28:53 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-02 22:40:11 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-02 22:40:11 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-02 22:40:11 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-02 22:40:12 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-02 22:40:12 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-02 22:40:12 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-02 22:40:12 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-02 22:41:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:42:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:43:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:44:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:45:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:46:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:47:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:48:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:49:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:50:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:51:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:52:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-02 22:53:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:52:39 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-03 14:52:39 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-03 14:52:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-03 14:52:39 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-03 14:52:39 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-03 14:52:39 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-03 14:52:39 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-03 14:53:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:54:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:55:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:56:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:57:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:58:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 14:59:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:00:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:01:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:02:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:03:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:04:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:05:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:06:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:07:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:08:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:09:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:10:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:11:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:12:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:13:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:14:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:15:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:16:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:17:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:18:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:19:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:20:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:21:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 15:21:43 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-03 15:21:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-03 15:21:44 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-03 23:20:45 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-03 23:20:45 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-03 23:20:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-03 23:20:45 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-03 23:20:45 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-03 23:20:45 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-03 23:20:45 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-03 23:21:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:22:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:23:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:24:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:25:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:26:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:27:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:28:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:29:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:30:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:31:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:32:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:33:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:34:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:35:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:36:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:37:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:38:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:39:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:40:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:41:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:42:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:43:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:44:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:45:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:46:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:47:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:48:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:49:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:50:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:51:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:52:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:53:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:54:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:55:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:56:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:57:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:58:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-03 23:59:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:00:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:01:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:02:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:03:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:04:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:05:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:06:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:07:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:08:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:09:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:10:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:11:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:12:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:13:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:14:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:15:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:16:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:17:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:18:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:19:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:20:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:21:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:22:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:23:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 00:23:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 00:23:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-04 00:23:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:24:45 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 00:25:13 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-04 00:25:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 00:25:14 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-04 14:41:11 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-04 14:41:11 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-04 14:41:11 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-04 14:41:11 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-04 14:41:11 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-04 14:41:11 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-04 14:41:11 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-04 14:42:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:42:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 14:42:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 14:42:21 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-04 14:43:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:44:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:45:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:46:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:47:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:48:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:49:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:50:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:51:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:52:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:53:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:54:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:55:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:56:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:57:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:58:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 14:59:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:00:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:01:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:02:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:03:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:04:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:05:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:06:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:07:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:08:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:09:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:10:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:11:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:12:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:13:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:14:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:15:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:16:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:17:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:18:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:19:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:20:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:21:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:22:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:23:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:24:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:25:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:26:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:26:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:26:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:26:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-04 15:26:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:26:29 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-04 15:27:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:28:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:28:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:28:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:28:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-04 15:29:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:29:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:30:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:30:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:31:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:32:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:32:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:33:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:33:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:33:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:33:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-04 15:33:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:33:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:33:49 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.ForumButton.actionPerformed(ForumButton.java:47)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-04 15:33:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:34:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:35:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:35:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:35:47 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-04 15:36:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:37:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:38:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:39:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:40:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-04 15:40:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-04 15:40:04 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-04 15:40:04 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1905
+2021-10-04 15:40:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-04 15:40:05 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-04 15:40:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:41:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:42:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:43:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:44:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:45:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:46:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:47:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:48:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:49:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:50:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:51:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:52:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:53:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:54:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:55:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:56:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:57:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:58:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 15:59:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:00:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:01:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:02:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:03:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:04:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:05:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:06:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:07:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:08:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:09:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:10:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:11:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:12:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:13:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:14:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:15:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:16:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:17:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:18:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:19:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:20:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:21:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:22:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:23:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:24:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:25:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:26:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:27:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:28:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:29:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:30:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:31:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:32:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:33:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:34:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:35:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:36:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:37:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:38:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:39:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:40:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:41:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:42:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:43:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:44:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:45:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:46:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:47:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:48:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:49:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:50:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:51:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:52:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:53:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:54:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:55:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:56:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:57:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:58:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 16:59:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:00:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:01:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:02:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:03:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:04:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:05:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:06:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:07:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:08:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:09:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:10:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:11:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:12:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:13:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:14:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:15:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:16:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:17:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:18:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:19:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:20:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:21:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:22:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:23:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:24:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:25:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:26:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:27:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:28:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:29:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:30:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:31:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:32:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:33:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:34:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:35:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:36:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:37:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:38:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:39:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:40:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:41:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:42:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:43:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:44:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:45:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:46:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:47:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:48:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:49:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:50:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:51:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:52:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:53:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:54:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:55:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:56:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:57:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-04 17:58:12 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:44:05 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-06 22:44:05 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-06 22:44:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-06 22:44:05 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-06 22:44:05 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-06 22:44:05 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-06 22:44:05 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-06 22:45:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:46:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:47:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:48:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:49:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:50:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:51:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:52:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:53:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:54:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:55:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:56:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:57:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:58:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 22:59:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:00:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:00:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:01:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:01:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:02:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:02:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:03:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:03:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:04:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:04:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:05:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:05:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:06:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:06:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:06:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-06 23:06:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-06 23:06:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-06 23:07:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:07:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:08:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:08:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:09:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:09:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:10:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:10:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:11:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:11:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:12:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:12:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:13:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:13:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:14:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:15:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:15:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:16:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:16:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:17:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-06 23:17:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-06 23:17:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-06 23:17:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:17:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:18:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:18:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:19:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:19:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:20:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:20:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:21:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:21:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:22:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:22:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:23:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:23:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:24:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:24:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:25:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:25:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:26:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:26:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:27:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:27:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-06 23:27:38 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-06 23:27:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-06 23:27:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-06 23:27:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-06 23:27:38 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-10 22:46:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-10 22:46:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-10 22:46:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-10 22:46:03 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-10 22:46:03 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-10 22:46:03 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-10 22:46:03 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-10 22:47:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:47:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:48:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:48:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:49:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:50:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:51:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:52:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:53:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:54:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:55:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:56:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:57:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:58:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 22:59:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:00:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:01:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:02:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:03:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:04:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:05:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:06:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:07:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:08:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:09:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:10:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:11:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:12:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:13:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:14:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:15:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:16:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:17:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:18:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:19:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:20:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:21:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:22:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:23:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:24:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:25:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:26:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:27:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:28:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:29:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:30:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:31:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:32:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:33:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:34:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:35:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:36:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:37:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:37:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-10 23:37:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-10 23:38:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:39:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:40:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:41:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:42:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:43:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:44:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:45:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:46:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:47:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:48:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:48:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-10 23:48:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-10 23:48:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-10 23:49:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:50:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:51:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:52:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:53:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:54:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:54:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-10 23:54:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-10 23:54:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-10 23:55:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:55:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-10 23:55:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-10 23:55:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-10 23:55:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-10 23:56:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:57:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:58:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-10 23:59:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:00:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:01:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:02:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:03:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:04:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:05:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:06:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:07:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:08:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:09:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 00:09:40 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-11 00:09:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 00:09:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 00:09:40 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-11 13:53:28 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-11 13:53:28 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-11 13:53:28 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-11 13:53:28 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-11 13:53:28 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-11 13:53:28 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-11 13:53:28 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-11 13:54:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 13:55:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 13:56:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 13:57:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 13:58:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 13:59:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:00:28 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:01:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:02:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:03:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:04:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:05:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:06:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:07:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:07:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:07:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-11 14:08:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-11 14:08:00 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1906
+2021-10-11 14:08:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:09:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:10:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:11:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:12:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:13:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:14:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:15:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:16:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:17:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:18:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:19:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:20:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:21:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:22:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:22:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:22:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:22:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-11 14:23:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:23:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:24:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:24:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:24:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:25:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:26:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:27:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:28:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:29:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:30:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:31:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:32:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:32:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:32:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-11 14:32:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:32:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:33:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:34:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:35:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 14:35:16 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-11 14:35:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-11 14:35:18 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1907
+2021-10-11 14:35:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:35:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 14:35:45 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-11 14:35:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:35:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:35:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-11 14:35:45 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-12 21:36:13 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-12 21:36:13 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-12 21:36:13 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-12 21:36:13 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-12 21:36:13 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-12 21:36:13 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-12 21:36:13 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-12 21:37:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:38:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:39:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:40:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:41:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:42:12 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-12 21:42:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 21:42:12 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-12 21:43:21 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-12 21:43:21 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-12 21:43:21 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-12 21:43:21 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-12 21:43:21 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-12 21:43:21 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-12 21:43:22 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-12 21:44:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:45:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:46:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:47:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:48:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:49:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:50:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:51:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 21:51:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 21:51:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:51:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 21:51:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 21:51:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 21:52:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 21:52:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:53:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:54:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:55:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:56:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:57:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:58:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 21:59:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:00:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:01:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:02:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:03:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:04:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:05:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:06:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:07:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:08:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:09:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:10:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:11:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:12:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:13:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:14:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:15:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:16:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:17:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:18:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:19:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:20:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 22:20:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 22:20:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:20:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 22:21:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:21:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 22:21:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 22:21:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 22:22:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:22:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 22:22:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 22:22:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 22:22:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 22:23:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 22:23:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:24:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:25:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:26:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:27:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:27:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 22:27:45 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-12 22:27:55 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-12 22:27:55 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1908
+2021-10-12 22:27:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 22:27:56 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-12 22:28:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:29:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:30:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:31:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:32:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:33:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:34:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:35:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:36:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:37:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:38:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:39:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:40:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:41:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:42:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:43:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:44:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:45:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:46:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:47:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:48:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:49:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:50:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:51:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:52:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:53:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:54:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:55:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:56:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:57:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:58:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 22:59:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:00:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:01:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:02:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:03:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:04:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:05:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:06:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:07:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:08:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:09:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:10:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:11:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:12:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:13:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:14:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:15:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:16:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:17:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:17:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 23:17:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 23:17:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 23:18:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 23:18:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 23:18:14 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-12 23:18:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:19:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:20:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-12 23:20:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 23:20:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:21:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:22:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:23:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:24:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:25:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:26:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:27:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:28:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:29:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:30:22 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-12 23:31:02 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-12 23:31:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 23:31:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-12 23:31:03 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-13 22:32:04 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-13 22:32:04 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-13 22:32:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-13 22:32:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-13 22:32:05 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-13 22:32:05 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-13 22:32:05 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-13 22:32:05 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-13 22:33:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:34:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:35:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:36:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:37:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:38:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:39:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:40:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:41:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:42:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:43:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:44:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:45:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:46:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:47:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:48:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:49:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:50:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:51:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:52:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:53:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:54:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:55:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:56:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:57:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:58:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 22:59:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:00:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:01:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:02:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:03:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:04:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:05:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:06:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:07:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:07:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-13 23:07:57 ERROR CorrectSolutionButton.actionPerformed(91) - Error while getting correct solution from server
+java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:221)
+	at com.homework.plugin.vf.HWDummyFileSystem.copyRecursively(HWDummyFileSystem.java:220)
+	at com.homework.plugin.vf.HWDummyFileSystem.copyRecursively(HWDummyFileSystem.java:217)
+	at com.homework.plugin.vf.HWDummyFileSystem.userVirtualFileToHWVirtualFile(HWDummyFileSystem.java:208)
+	at com.homework.plugin.button.CorrectSolutionButton$ShowDiffAction.run(CorrectSolutionButton.java:115)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:959)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:86)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-13 23:08:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:09:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:10:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:11:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:12:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:13:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:14:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:15:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:16:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:17:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:18:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:19:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:20:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:21:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:22:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:23:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:24:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:25:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:26:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:27:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:28:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:29:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:30:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:31:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:32:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:33:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-13 23:33:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-13 23:33:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-13 23:33:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-13 23:33:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-13 23:33:58 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-13 23:33:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-13 23:33:59 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-19 01:21:13 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-19 01:21:13 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-19 01:21:13 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-19 01:21:13 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-19 01:21:13 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-19 01:21:14 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-19 01:21:14 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-19 01:21:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:21:39 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-19 01:21:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-19 01:21:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1909
+2021-10-19 01:22:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:23:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:24:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:25:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:26:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:27:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:28:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:29:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:29:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:29:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:29:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-19 01:29:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:30:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:30:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:30:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:30:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:31:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:32:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:33:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:33:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-19 01:33:06 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-19 01:33:06 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1910
+2021-10-19 01:33:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:33:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:34:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:35:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:36:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:37:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:38:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:39:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:40:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:41:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:42:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:43:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:44:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:45:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:46:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:47:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:48:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:49:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:49:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:49:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:49:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-19 01:49:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:49:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:49:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-19 01:50:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:50:10 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.ForumButton.actionPerformed(ForumButton.java:47)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-19 01:50:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:50:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:51:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:52:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:52:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:52:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-19 01:52:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:52:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-19 01:52:09 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-19 01:52:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:53:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:54:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-19 01:54:51 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-19 01:54:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:54:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:54:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-19 01:54:52 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-20 12:53:06 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-20 12:53:06 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-20 12:53:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-20 12:53:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-20 12:53:06 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-20 12:53:06 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-20 12:53:06 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-20 12:53:06 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-20 12:53:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-20 12:53:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-20 12:53:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-20 12:53:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1911
+2021-10-20 12:54:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 12:55:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 12:56:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 12:57:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 12:58:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 12:59:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:00:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:01:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:02:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:03:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:04:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:05:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:06:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:07:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:08:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:09:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:10:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:10:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-20 13:10:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:10:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-20 13:10:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:10:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-20 13:10:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-20 13:11:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-20 13:11:13 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-20 13:11:13 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1912
+2021-10-20 13:11:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:11:25 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-20 13:11:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:11:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:11:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-20 13:11:26 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-21 02:00:10 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-21 02:00:10 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-21 02:00:10 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-21 02:00:10 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-21 02:00:11 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-21 02:00:11 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-21 02:00:11 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-21 02:00:11 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-21 02:01:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:01:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:02:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:02:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:03:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:03:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:04:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:04:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:05:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:05:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:06:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:06:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:07:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:07:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:07:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-21 02:07:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:07:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-21 02:07:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:08:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:08:11 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-21 02:08:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-21 02:08:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-21 02:08:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-21 02:08:47 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/Серёжа/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1913
+2021-10-21 02:08:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:08:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-21 02:09:07 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-21 02:09:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:09:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:09:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-21 02:09:08 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-22 13:38:25 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-22 13:38:25 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-22 13:38:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-22 13:38:25 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-22 13:38:25 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-22 13:38:26 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-22 13:38:26 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-22 13:39:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:40:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:41:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:42:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:42:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:43:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:43:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:44:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:44:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:45:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:45:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:46:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-22 13:46:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-22 13:46:15 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-10-22 13:46:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-22 13:46:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-22 13:46:21 WARN  PluginUtil.getCurrentTask(78) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:158)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:69)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:201)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:469)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-10-22 13:46:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:46:26 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-22 13:46:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-22 13:46:33 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-22 13:46:37 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-10-22 13:46:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-22 13:46:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-10-22 13:46:38 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-10-22 14:30:52 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-22 14:30:52 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-22 14:30:52 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-22 14:30:53 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-22 14:30:53 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-22 14:30:53 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-22 14:30:53 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-22 14:30:53 INFO  AbstractRestApiClient.startService(71) - EventsService started.
