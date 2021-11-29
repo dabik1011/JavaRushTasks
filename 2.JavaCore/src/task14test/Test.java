@@ -6,5 +6,6 @@ public class Test {
         int b = Math.abs(8);
         int c = a%b;
         System.out.println(c);
+        
     }
 }
